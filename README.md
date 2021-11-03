@@ -1,4 +1,4 @@
-# WebApps21
+# CO550 WebApps21
 This is a wiki to support CO550 Web Applications @BNU 2021-2022
 
 There is no code in this repository at the moment, please see:-
