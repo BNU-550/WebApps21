@@ -1,0 +1,17 @@
+Task ID,Task list,Milestone,Task name,Task description,Start date,Due date,Priority,Private,Progress,Status,Status text,Assigned to,Date created,Created by firstname,Created by lastname,Completed date,Completed by firstname,Completed by lastname,Parent task,Completed on time,Priority text,Tags,Board column
+664893,Software Design Report,CW1 Software Design,Project background and rational,,29/09/2022,13/10/2022,,0,30,new,started,Derek Peacock,10/09/2022 4:26pm,Derek,Peacock,,,,,false,No priority,Doc,Completed
+664902,Software Design Report,CW1 Software Design,Feature List,,29/09/2022,06/10/2022,,0,0,reopened,not started,Anyone,10/09/2022 4:31pm,Derek,Peacock,,,,,false,No priority,Doc,To do
+818099,Software Design Report,CW1 Software Design,Feature List --> First Draft Feature List,,29/09/2022,06/10/2022,,0,0,new,not started,Anyone,15/09/2022 7:57pm,Derek,Peacock,,,,664902,false,No priority,Draft,
+818100,Software Design Report,CW1 Software Design,Feature List --> Reviewed Feature List,,29/09/2022,06/10/2022,,0,0,new,not started,Anyone,15/09/2022 7:58pm,Derek,Peacock,,,,664902,false,No priority,Review,
+664895,Software Design Report,CW1 Software Design,Use Case Diagram,,10/10/2022,14/10/2022,,0,0,new,not started,Anyone,10/09/2022 4:27pm,Derek,Peacock,,,,,false,No priority,UML,To do
+664897,Software Design Report,CW1 Software Design,Use Case Specifications,,15/10/2022,21/10/2022,,0,0,reopened,not started,Anyone,10/09/2022 4:27pm,Derek,Peacock,,,,,false,No priority,UML,
+664898,Software Design Report,CW1 Software Design,User Interface Designs,,23/10/2022,25/10/2022,,0,0,new,not started,Anyone,10/09/2022 4:29pm,Derek,Peacock,,,,,false,No priority,UML,
+664899,Software Design Report,CW1 Software Design,User Stories,,24/10/2022,30/10/2022,,0,0,new,not started,Anyone,10/09/2022 4:29pm,Derek,Peacock,,,,,false,No priority,UML,
+664900,Software Design Report,CW1 Software Design,UML Class Diagram,,31/10/2022,08/11/2022,,0,0,new,not started,Anyone,10/09/2022 4:29pm,Derek,Peacock,,,,,false,No priority,UML,
+664901,Software Design Report,CW1 Software Design,Database ERD,,31/10/2022,08/11/2022,,0,0,new,not started,Anyone,10/09/2022 4:30pm,Derek,Peacock,,,,,false,No priority,ERD,
+664929,Software Implementation,CW2 Software Implementation,Report on ASP.NET Technology,,,13/01/2023,,0,0,new,not started,Anyone,10/09/2022 4:42pm,Derek,Peacock,,,,,false,No priority,Doc,
+664930,Software Implementation,CW2 Software Implementation,Update Project Background,,,13/01/2023,,0,0,new,not started,Anyone,10/09/2022 4:43pm,Derek,Peacock,,,,,false,No priority,Doc,
+664931,Software Implementation,CW2 Software Implementation,Update Use Case Diagram,,,13/01/2023,,0,0,new,not started,Anyone,10/09/2022 4:43pm,Derek,Peacock,,,,,false,No priority,UML,
+664932,Software Implementation,CW2 Software Implementation,Update Class Diagram,,,13/01/2023,,0,0,new,not started,Anyone,10/09/2022 4:43pm,Derek,Peacock,,,,,false,No priority,UML,
+664933,Software Implementation,CW2 Software Implementation,Update Database ERD,,,13/01/2023,,0,0,new,not started,Anyone,10/09/2022 4:43pm,Derek,Peacock,,,,,false,No priority,ERD,
+818094,Software Implementation,CW2 Software Implementation,Add Models,,24/11/2022,13/01/2023,,0,0,new,not started,Anyone,15/09/2022 7:51pm,Derek,Peacock,,,,,false,No priority,C,
