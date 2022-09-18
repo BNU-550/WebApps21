@@ -5,7 +5,7 @@ There is no code in this repository at the moment, please see:-
 
 * [ASP Razor Currency Converter](https://github.com/BNU-550/ASP-Razor-CurrencyConverter-Derek)    
 * [ASP-Razor Movies Tutorial](https://learn.microsoft.com/en-gb/aspnet/core/tutorials/razor-pages/?view=aspnetcore-6.0)    
-* [ASP-MVC-Movies Tutorial](https://github.com/BNU-550/ASP-MVC-Movies)    
+* [ASP-MVC-Movies Tutorial](https://learn.microsoft.com/en-gb/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-6.0&tabs=visual-studio)    
 * [ASP-Razor-Contoso Tutorial](https://github.com/BNU-550/ASP-Razor-Contoso)    
 * [ASP-MVC-Contoso Tutorial](https://github.com/BNU-550/ASP-MVC-Contoso)
 * [ASP-Blazor Server Example Project]()
