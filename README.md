@@ -4,7 +4,7 @@ This is a wiki to support CO550 Web Applications @BNU 2021-2022
 There is no code in this repository at the moment, please see:-
 
 * [ASP Razor Currency Converter](https://github.com/BNU-550/ASP-Razor-CurrencyConverter-Derek)    
-* [ASP-Razor Movies Tutorial](https://github.com/BNU-550/ASP-Razor-MVC-Derek)    
+* [ASP-Razor Movies Tutorial](https://learn.microsoft.com/en-gb/aspnet/core/tutorials/razor-pages/?view=aspnetcore-6.0)    
 * [ASP-MVC-Movies Tutorial](https://github.com/BNU-550/ASP-MVC-Movies)    
 * [ASP-Razor-Contoso Tutorial](https://github.com/BNU-550/ASP-Razor-Contoso)    
 * [ASP-MVC-Contoso Tutorial](https://github.com/BNU-550/ASP-MVC-Contoso)
